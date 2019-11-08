@@ -1,0 +1,14 @@
+.Button {
+    width: 25%;
+    height: 11vh;
+    font-size: 10px;
+    outline: none;
+    background-color: white;
+    border: 1px solid transparent;
+
+
+}
+
+.Button:hover {
+    
+}
